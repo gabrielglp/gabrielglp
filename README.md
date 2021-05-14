@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielglp
-- 👀 I’m interested in  ser um bom PROGRAMADOR ...
+- 👀 I’m interested in be a good PROGRAMMER ...
 - 🌱 I’m currently learning  Git/ Git-Hub, JavaScript, Node.js, Express...
-- 💞️ I’m looking to collaborate on  no que vier
+- 💞️ I’m looking to collaborate on I will collaborate with you all I can
 - 📫 How to reach me , (13)99175-8888
 
 <!---
