@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in be a good PROGRAMMER ...
-- 🌱 I’m currently learning  Git/ Git-Hub, JavaScript, Node.js, Express...
-- 💞️ I’m looking to collaborate on I will collaborate with you all I can
 - 📫 How to reach me , gabriel_pg08@hotmail.com
 - 
 <div align="center">
